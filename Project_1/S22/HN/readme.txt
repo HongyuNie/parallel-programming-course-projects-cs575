@@ -1,0 +1,1 @@
+loop.csh >& p1.csv

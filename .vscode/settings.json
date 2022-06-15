@@ -1,0 +1,5 @@
+{
+    "git.autoRepositoryDetection": false,
+    "git.confirmEmptyCommits": true,
+    "git.confirmForcePush": false
+}

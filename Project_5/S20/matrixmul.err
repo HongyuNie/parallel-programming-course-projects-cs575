@@ -1,0 +1,168 @@
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =    16:
+Number of Trials =      16384, MegaTrials/Second =   551.7241
+
+Probability = 41.473 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =    16:
+Number of Trials =      32768, MegaTrials/Second =  1008.8670
+
+Probability = 41.559 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =    16:
+Number of Trials =      65536, MegaTrials/Second =  1866.9098
+
+Probability = 41.812 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =    16:
+Number of Trials =     131072, MegaTrials/Second =  3043.0906
+
+Probability = 42.014 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =    16:
+Number of Trials =     262144, MegaTrials/Second =  4620.4174
+
+Probability = 42.058 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =    16:
+Number of Trials =     524288, MegaTrials/Second =  6005.8650
+
+Probability = 42.040 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =    16:
+Number of Trials =    1048576, MegaTrials/Second =  7454.0492
+
+Probability = 41.997 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =    32:
+Number of Trials =      16384, MegaTrials/Second =   500.0000
+
+Probability = 42.194 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =    32:
+Number of Trials =      32768, MegaTrials/Second =  1082.4524
+
+Probability = 42.538 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =    32:
+Number of Trials =      65536, MegaTrials/Second =  2003.9139
+
+Probability = 42.044 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =    32:
+Number of Trials =     131072, MegaTrials/Second =  3540.1903
+
+Probability = 42.062 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =    32:
+Number of Trials =     262144, MegaTrials/Second =  6068.1480
+
+Probability = 41.965 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =    32:
+Number of Trials =     524288, MegaTrials/Second =  8738.1335
+
+Probability = 42.059 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =    32:
+Number of Trials =    1048576, MegaTrials/Second = 11770.1149
+
+Probability = 42.019 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =    64:
+Number of Trials =      16384, MegaTrials/Second =   571.4286
+
+Probability = 41.638 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =    64:
+Number of Trials =      32768, MegaTrials/Second =  1120.3501
+
+Probability = 42.050 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =    64:
+Number of Trials =      65536, MegaTrials/Second =  2117.8903
+
+Probability = 41.849 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =    64:
+Number of Trials =     131072, MegaTrials/Second =  4027.5322
+
+Probability = 42.019 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =    64:
+Number of Trials =     262144, MegaTrials/Second =  7031.7595
+
+Probability = 42.024 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =    64:
+Number of Trials =     524288, MegaTrials/Second = 10988.5987
+
+Probability = 42.206 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =    64:
+Number of Trials =    1048576, MegaTrials/Second = 16625.0625
+
+Probability = 42.019 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =   128:
+Number of Trials =      16384, MegaTrials/Second =   571.4286
+
+Probability = 42.181 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =   128:
+Number of Trials =      32768, MegaTrials/Second =  1090.5218
+
+Probability = 42.075 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =   128:
+Number of Trials =      65536, MegaTrials/Second =  2181.0437
+
+Probability = 42.198 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =   128:
+Number of Trials =     131072, MegaTrials/Second =  4201.0258
+
+Probability = 41.967 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =   128:
+Number of Trials =     262144, MegaTrials/Second =  7301.2475
+
+Probability = 42.052 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =   128:
+Number of Trials =     524288, MegaTrials/Second = 12020.5428
+
+Probability = 42.018 %
+project_5.cu(104): warning: variable "outx" was declared but never referenced
+
+Block Size =   128:
+Number of Trials =    1048576, MegaTrials/Second = 16524.4582
+
+Probability = 41.999 %
